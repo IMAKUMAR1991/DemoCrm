@@ -14,5 +14,6 @@ public class Fact {
 			numb--;
 		}
 		System.out.println(fact);
+		////anand kumar
 	}
 }
