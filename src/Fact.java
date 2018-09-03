@@ -16,7 +16,12 @@ public class Fact {
 		System.out.println(fact);
 		//FROM GIT
 		
+<<<<<<< Updated upstream
 // FROM ECLIPSE
 		// git on git
+=======
+// FROM ECLIPSE//
+		// on eclipse
+>>>>>>> Stashed changes
 	}
 }
