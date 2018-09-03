@@ -17,6 +17,10 @@ public class Fact {
 		////anand kumar
 		// phir se add
 		// from git repo
+<<<<<<< HEAD
 		// from eclipse
+=======
+		// from repo and ecl
+>>>>>>> 5b3a6fd969cf575f0778ece243b97d679b1bfeea
 	}
 }
