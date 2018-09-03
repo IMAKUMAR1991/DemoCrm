@@ -14,6 +14,7 @@ public class Fact {
 			numb--;
 		}
 		System.out.println(fact);
+		//FROM GIT
 		
 
 	}
