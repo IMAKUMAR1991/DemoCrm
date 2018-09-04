@@ -32,5 +32,9 @@ public class Inh {
 		d1.wish();
 	}
 }
+<<<<<<< Updated upstream
 // anand kumar from git
+=======
+// anand from eclipse
+>>>>>>> Stashed changes
 
